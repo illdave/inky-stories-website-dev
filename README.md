@@ -1,5 +1,5 @@
 # Inky Stories website
-Inky Stories (inkystories.com) is the static HTML website for web comics by David Marshall, published by Rotten Kid Press. The comics are mostly short self-contained stories. Genres include satire, horror, romance, sci-fi and crime fiction. This March 2020 release is the second version.
+Inky Stories (inkystories.com) is the static HTML website for web comics by David Marshall, published by Rotten Kid Press. The comics are mostly short self-contained stories. Genres include satire, horror, romance, sci-fi and crime fiction. This October 2022 release is the third version.
 
 ## Site
 The live site of Inky Stories is https://inkystories.com
